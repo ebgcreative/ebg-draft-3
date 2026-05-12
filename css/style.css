@@ -120,7 +120,7 @@ nav.light .nav-cta { background: var(--navy); color: var(--white); }
   right: -1rem;
   font-family: 'Playfair Display', serif;
   font-size: clamp(8rem, 18vw, 20rem);
-  font-weight: 900;
+  font-weight: 1500;
   color: rgba(184, 201, 232, 0.04);
   line-height: 1;
   pointer-events: none;
